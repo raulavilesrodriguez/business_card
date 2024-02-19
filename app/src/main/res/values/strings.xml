@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="nombre_autor">Byron Raúl Avilés Rodríguez</string>
+    <string name="title_developer">Investor and Android Developer</string>
+    <string name="numero_celular">+(593)984059883</string>
+    <string name="instagram_social">\@raul_pandas</string>
+    <string name="correo_gmail">bravilesr@gmail.com</string>
+</resources>
